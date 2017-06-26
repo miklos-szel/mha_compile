@@ -18,6 +18,6 @@ rpmbuild -ba masterha_manager.spec
 
 the RPMs will be located under rpmbuild/RPMS/
 rpmbuild/RPMS/noarc/
-  mha4mysql-manager-0.57-0.el7.centos.noarch.rpm
-  mha4mysql-node-0.57-0.el7.centos.noarch.rpm
+* mha4mysql-manager-0.57-0.el7.centos.noarch.rpm
+* mha4mysql-node-0.57-0.el7.centos.noarch.rpm
 
