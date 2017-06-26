@@ -1,0 +1,10 @@
+Package: mha4mysql-node
+Version: 0.56-0
+Architecture: all
+Maintainer: Yoshinori Matsunobu <Yoshinori.Matsunobu@gmail.com>
+Installed-Size: 125
+Depends: perl, libdbi-perl, libdbd-mysql-perl (>= 4.031)
+Section: perl
+Priority: optional
+Homepage: http://code.google.com/p/mysql-master-ha/
+Description: Master High Availability Manager and Tools for MySQL, Node Package

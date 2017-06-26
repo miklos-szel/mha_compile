@@ -1,0 +1,10 @@
+Package: mha4mysql-manager
+Version: 0.56-0
+Architecture: all
+Maintainer: Yoshinori Matsunobu <Yoshinori.Matsunobu@gmail.com>
+Installed-Size: 355
+Depends: perl, libdbi-perl, libdbd-mysql-perl (>= 4.031), libconfig-tiny-perl, liblog-dispatch-perl, libparallel-forkmanager-perl, mha4mysql-node (>= 0.54)
+Section: perl
+Priority: optional
+Homepage: http://code.google.com/p/mysql-master-ha/
+Description: Master High Availability Manager and Tools for MySQL, Manager Package
